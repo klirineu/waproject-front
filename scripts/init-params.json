@@ -1,0 +1,11 @@
+{
+  "project": "waproject-front",
+  "repository": "https://github.com/klirineu/wa-projetct-api.git",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/waproject-front",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "waproject-front"
+}
